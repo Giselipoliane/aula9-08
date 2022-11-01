@@ -1,8 +1,10 @@
+body{
+    background: #cccc
+}
 p{
-
     text-align:center
 }
-h1{
-    text-align:center;
-    background: CCCCC rgb(96, 121, 101);
+em strong{
+    color: red;
+    
 }
